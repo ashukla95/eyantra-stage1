@@ -1,1 +1,3 @@
 # eyantra-stage1
+This repo contains code that was written for completion of stage1 of the competition e-yantra conducted by IIT-Bombay in association with MHRD.
+The main objective of the task provided by the e-yantra cell of IIT-Bombay was to predict the shortest possible path from a matrix present in the image(s) provided. The image content was a matrix made of '0's and '1's. The image had to be read first. From the image, the 2-dimensional matrix was extracted. Dijkstra's algorithm was used to find the shortest path. The whole project was implemented using open-cv library of python along with core data structures of python.
